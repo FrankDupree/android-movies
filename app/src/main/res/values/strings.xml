@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <!-- Some strings used for example layout during design -->
+    <string name="example_original_title">THE FATE OF THE FURIOUS</string>
+    <string name="example_release_date">APRIL 14, 2017</string>
+    <string name="example_vote_average">7.2/10</string>
+    <string name="overview">When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.</string>
+
+
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="heading_release_date">Release Date</string>
+    <string name="heading_vote_average">Vote Average</string>
+    <string name="no_release_date_found">No release date found</string>
+    <string name="no_summary_found">No summary was found</string>
+    <string name="parcel_movie">PARCEL_MOVIE</string>
+
+
+    <string name="pref_sort_method_key">SORT_METHOD</string>
+    <string name="pref_sort_vote_avg_desc_key">SORT_VOTE_AVERAGE_DESC</string>
+    <string name="pref_sort_pop_desc_key">SORT_POPULARITY_DESC</string>
+
+
+    <string name="sort_by_pop_desc">popularity.desc</string>
+    <string name="sort_by_top_rated">vote_average.desc</string>
+    <string name="description_poster">Contains movie poster</string>
+
+    <string name="rated_title">Top Rated Movies</string>
+    <string name="pop_title">Popular Movies</string>
+
+    <!-- Error user information -->
+    <string name="needs_internet_connection">This application needs the Internet to function properly.</string>
+</resources>
